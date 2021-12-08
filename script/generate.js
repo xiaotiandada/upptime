@@ -1,6 +1,5 @@
-// uptimerobot rss to .upptimerc.yml
-
 /**
+ * uptimerobot export csv to .upptimerc.yml
  * 1. uptimerobot export csv
  * 2. csv to json https://csvjson.com/csv2json
  * 3. json to yml
