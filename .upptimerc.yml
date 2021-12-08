@@ -25,6 +25,8 @@ sites:
     url: "https://misson-hall-api.mttk.net"
   - name: "Cryptomeetup"
     url: "https://cryptomeetup.async.moe"
+  - name: "Hero"
+    url: "https://dao-hero.netlify.app"
   - name: "management"
     url: "https://mgr-prod.mttk.net"
   - name: "Matataki Airdrop"
@@ -57,8 +59,6 @@ sites:
     url: "https://home.metanetwork.online"
   - name: "OSS aliyuncs cn hongkong"
     url: "https://smartsignature-img.oss-cn-hongkong.aliyuncs.com/avatar/2020/01/27/4ea1a68f7445d49f4cc36df476be2a09.jpg"
-  - name: "水浒英雄"
-    url: "https://dao-hero.netlify.app"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
